@@ -1,6 +1,6 @@
 .odd {
     background-color: #FF474C80;
-    font-family: Verdana, "DejaVu Sans", sans-serif
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .different-size {
@@ -8,7 +8,7 @@
 }
 
 #two {
-    color: #0047ab
+    color: #0047ab;
     font-size: 36px
 }
 
